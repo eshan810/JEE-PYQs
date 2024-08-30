@@ -154,15 +154,24 @@ Also self explanatory, but this means that you forgot to include the `\author{}`
   > Exception: Fatal Error: JEE/Circle/Section 2/30-45/main.tex possible values for \section are: dict_keys(['true-false', 'matrix-match', 'mcq-single', 'mcq-multiple', 'fitb'])
 
 There are specific section names you can use. The list includes
-    1. true-false : For True Or False Type 
-    2. matrix-match : For Match The Following
-    3. mcq-single : Single correct Answers
-    4. mcq-multiple : Multiple correct Answers
-    5. fitb : Fill In The Blanks
-    6. integer : Integer Type Questions
-    7. subjective : Subjective type
-    8. paragraph : Comprehension Based
-    9. mains : Section-B Mains/AIEEE
+  
+  1. true-false : For True Or False Type 
+    
+  2. matrix-match : For Match The Following
+    
+  3. mcq-single : Single correct Answers
+   
+  4. mcq-multiple : Multiple correct Answers
+
+  5. fitb : Fill In The Blanks
+
+  6. integer : Integer Type Questions
+
+  7. subjective : Subjective type
+
+  8. paragraph : Comprehension Based
+
+  9. mains : Section-B Mains/AIEEE
 
 
 Then run
