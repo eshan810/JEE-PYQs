@@ -3,7 +3,7 @@
     
   Let's start with commiting your solutions to this repository.
   
-
+  First, [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the repository, and clone it. Then follow the instructions given below to make changes
   ## What changes will you make to the repo?
 
   The real reason for this whole charade is to build a book out of your assignments for future use. Remember your MatGeo Book that is Oh-So-Crucial for the quizzes in your course? Unfortunately, it didn't appear out of thin air. It too was made by piecing together assignments from unexpecting students who, like you, probably thought they were done when they submitted them.
