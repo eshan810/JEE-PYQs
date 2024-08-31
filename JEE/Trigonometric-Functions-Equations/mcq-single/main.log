@@ -1,0 +1,828 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.8.11)  31 AUG 2024 11:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 	\item I
+            f $\tan\theta =-\frac{4}{3}$ then $\sin \theta$ is
+? \
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+Missing character: There is no I in font nullfont!
+Missing character: There is no f in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (31.63885pt too wide) in paragraph at lines 6--7
+[] \OML/cmm/m/it/10 ^^R \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (14.16393pt too wide) in paragraph at lines 6--7
+\OMS/cmsy/m/n/10 ^^@[]$
+ []
+
+
+Overfull \hbox (18.91666pt too wide) in paragraph at lines 6--7
+[] \OML/cmm/m/it/10 ^^R$
+ []
+
+! Undefined control sequence.
+l.8 		\hfill{\brak
+                  {1979}}
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--9
+[]
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--11
+[] 
+ []
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (12.63614pt too wide) in paragraph at lines 12--13
+[]$
+ []
+
+
+Overfull \hbox (6.38612pt too wide) in paragraph at lines 12--13
+[]$ 
+ []
+
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+
+Overfull \hbox (6.38612pt too wide) in paragraph at lines 13--14
+[]$
+ []
+
+
+Overfull \hbox (12.63614pt too wide) in paragraph at lines 13--14
+[]$ 
+ []
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (6.38612pt too wide) in paragraph at lines 14--15
+[]$
+ []
+
+
+Overfull \hbox (12.63614pt too wide) in paragraph at lines 14--15
+[]$ 
+ []
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 	\item I
+             f $\alpha+ \beta +\gamma = 2\pi$
+? 
+Missing character: There is no I in font nullfont!
+Missing character: There is no f in font nullfont!
+! Undefined control sequence.
+l.21 		\hfill{\brak
+                   {1979}}
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+
+Overfull \hbox (14.21184pt too wide) in paragraph at lines 20--22
+\OML/cmm/m/it/10  \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (13.96182pt too wide) in paragraph at lines 20--22
+\OML/cmm/m/it/10 ^^L \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (16.28836pt too wide) in paragraph at lines 20--22
+\OML/cmm/m/it/10 ^^M \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (11.05907pt too wide) in paragraph at lines 20--22
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ^^Y$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--23
+[] 
+ []
+
+
+Overfull \hbox (31.48767pt too wide) in paragraph at lines 26--27
+[] [] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (31.18304pt too wide) in paragraph at lines 26--27
+[] [] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (33.6977pt too wide) in paragraph at lines 26--27
+[] [] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (73.59055pt too wide) in paragraph at lines 26--27
+[] [] [] [] [] []$ 
+ []
+
+
+Overfull \hbox (56.55954pt too wide) in paragraph at lines 29--30
+[] [] [] [] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (55.99185pt too wide) in paragraph at lines 29--30
+[] [] [] [] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (59.07419pt too wide) in paragraph at lines 29--30
+[] [] [] [] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 29--30
+\OT1/cmr/m/n/10 1$ 
+ []
+
+
+Overfull \hbox (31.48767pt too wide) in paragraph at lines 31--32
+[] [] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (31.18304pt too wide) in paragraph at lines 31--32
+[] [] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (33.6977pt too wide) in paragraph at lines 31--32
+[] [] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (83.03497pt too wide) in paragraph at lines 31--32
+\OMS/cmsy/m/n/10 ^^@ [] [] [] [] [] []$ 
+ []
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 	\item G
+             iven $A = \sin^{2}\theta + \cos^{4}\theta $ then for all real v...
+
+? 
+Missing character: There is no G in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+! Undefined control sequence.
+l.41 		\hfill{\brak
+                   {1980}}
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+Overfull \hbox (18.05553pt too wide) in paragraph at lines 40--42
+\OML/cmm/m/it/10 A \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (31.18059pt too wide) in paragraph at lines 40--42
+[][] \OML/cmm/m/it/10 ^^R \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (24.51389pt too wide) in paragraph at lines 40--42
+[][] \OML/cmm/m/it/10 ^^R$
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 40--42
+\OML/cmm/m/it/10 ^^R$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--43
+[] 
+ []
+
+
+Overfull \hbox (15.55553pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (18.05553pt too wide) in paragraph at lines 44--45
+\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 2$ 
+ []
+
+
+Overfull \hbox (16.94164pt too wide) in paragraph at lines 45--46
+[] \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (18.05553pt too wide) in paragraph at lines 45--46
+\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/10 1$ 
+ []
+
+
+Overfull \hbox (20.92776pt too wide) in paragraph at lines 46--47
+[] \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (18.05553pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 1$ 
+ []
+
+
+Overfull \hbox (16.94164pt too wide) in paragraph at lines 47--48
+[] \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (18.05553pt too wide) in paragraph at lines 47--48
+\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (10.37225pt too wide) in paragraph at lines 47--48
+[]$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 	\item T
+             he equation $2\cos^{2}\frac{x}{2}\sin^{2}x = x^{2} +x^{-2}$
+? 
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.53 		\hfill{\brak
+                   {1980}}
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+Overfull \hbox (69.51099pt too wide) in paragraph at lines 52--54
+\OT1/cmr/m/n/10 2 [][] [] [][] \OML/cmm/m/it/10 x \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (17.9792pt too wide) in paragraph at lines 52--54
+\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (16.45142pt too wide) in paragraph at lines 52--54
+\OML/cmm/m/it/10 x[]$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 55--55
+[] 
+ []
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 	\item T
+             he general solution to the trignometric equation $ \sin x + \co...
+
+? 
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+! Undefined control sequence.
+l.65 		\hfill{\brak
+                   {1981 - 2 Marks}}
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (27.4375pt too wide) in paragraph at lines 64--66
+[] \OML/cmm/m/it/10 x \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (31.32631pt too wide) in paragraph at lines 64--66
+[] \OML/cmm/m/it/10 x \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 64--66
+\OT1/cmr/m/n/10 1$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 67--67
+[] 
+ []
+
+
+Overfull \hbox (16.27078pt too wide) in paragraph at lines 68--69
+\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (38.06369pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 n^^Y\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 n \OT1
+/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (52.77771pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^F\OT1/cmr/m/n/10 1\OML/c
+mm/m/it/10 ; \OMS/cmsy/m/n/10 ^^F\OT1/cmr/m/n/10 2 []$ 
+ []
+
+
+Overfull \hbox (16.27078pt too wide) in paragraph at lines 69--70
+\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.83922pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 n^^Y \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (28.32974pt too wide) in paragraph at lines 69--70
+[]\OML/cmm/m/it/10 ; n \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (52.77771pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^F\OT1/cmr/m/n/10 1\OML/c
+mm/m/it/10 ; \OMS/cmsy/m/n/10 ^^F\OT1/cmr/m/n/10 2 []$ 
+ []
+
+! Undefined control sequence.
+l.70 			\item $x=n\pi+\brak
+                           {-1}^{n}\frac{\pi}{4},n = 0,\pm 1,\pm 2 \cdots $
+? 
+
+Overfull \hbox (16.27078pt too wide) in paragraph at lines 70--71
+\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (19.8392pt too wide) in paragraph at lines 70--71
+\OML/cmm/m/it/10 n^^Y \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (46.55089pt too wide) in paragraph at lines 70--71
+[][][]\OML/cmm/m/it/10 ; n \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (52.77771pt too wide) in paragraph at lines 70--71
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^F\OT1/cmr/m/n/10 1\OML/c
+mm/m/it/10 ; \OMS/cmsy/m/n/10 ^^F\OT1/cmr/m/n/10 2 []$ 
+ []
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 	\item T
+             he value of the expression $\sqrt{3}\cosec 20\degree - \sec 20\...
+
+? 
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.76 ...he value of the expression $\sqrt{3}\cosec
+                                                   20\degree - \sec 20\degre...
+
+? 
+! Undefined control sequence.
+l.76 ...f the expression $\sqrt{3}\cosec 20\degree
+                                                   - \sec 20\degree $ is equ...
+
+? 
+! Undefined control sequence.
+l.76 ...$\sqrt{3}\cosec 20\degree - \sec 20\degree
+                                                   $ is equal to
+? 
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+! Undefined control sequence.
+l.77 		\hfill{\brak
+                   {1988 - 2 Marks}}
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (31.1112pt too wide) in paragraph at lines 76--78
+[]\OT1/cmr/m/n/10 20 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (24.49998pt too wide) in paragraph at lines 76--78
+[] \OT1/cmr/m/n/10 20$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--79
+[] 
+ []
+
+Missing character: There is no 2 in font nullfont!
+! Undefined control sequence.
+l.81   				\item $2\sin 20\degree
+                                 /\sin 40\degree$
+? 
+! Undefined control sequence.
+l.81   				\item $2\sin 20\degree/\sin 40\degree
+                                                $
+? 
+
+Overfull \hbox (61.2222pt too wide) in paragraph at lines 81--82
+\OT1/cmr/m/n/10 2 [] 20\OML/cmm/m/it/10 = [] \OT1/cmr/m/n/10 40$ 
+ []
+
+Missing character: There is no 4 in font nullfont!
+! Undefined control sequence.
+l.83 				\item $2\sin 20\degree
+                               /\sin 40\degree $
+? 
+! Undefined control sequence.
+l.83 				\item $2\sin 20\degree/\sin 40\degree
+                                               $
+? 
+
+Overfull \hbox (61.2222pt too wide) in paragraph at lines 83--84
+\OT1/cmr/m/n/10 2 [] 20\OML/cmm/m/it/10 = [] \OT1/cmr/m/n/10 40$ 
+ []
+
+)
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*X
+Missing character: There is no X in font nullfont!
+
+*\end
+
+*\end
+! Missing \endcsname inserted.
+<to be read again> 
+                   \end/ 
+<*> \end
+        
+? \end/
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? X
+ 
+Here is how much of TeX's memory you used:
+ 25 strings out of 474116
+ 538 string characters out of 5750249
+ 1935187 words of memory out of 5000000
+ 22485 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,2n,22p,183b,80s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
