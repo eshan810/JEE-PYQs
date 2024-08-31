@@ -143,6 +143,10 @@ After doing this, you can run
 
 ### Errors you may get while running the python script 
 
+  > Skipped processing file JEE/Circle/Section 1/1-15/main.tex Reason: Did not match conditions given in key "pdf.conditions.validlatex" in json file pdfc.json
+
+This means that you have not included the `\iffalse` and `\fi` flags in your tex files.
+
   > Exception: Fatal Error: JEE/Circle/Section 2/30-45/main.tex has no \section macro
 
 As you can see, this error means that you forgot to include the `\section{}` macro in your tex file.
