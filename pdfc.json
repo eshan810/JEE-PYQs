@@ -141,7 +141,11 @@
             "keys":["MCQ One or more than One", "MCQ more than"]
         },
         "subjective":{
-            "name":"Subjective Problems",
+            "name":"Subjective Questions",
+            "keys":["MCQ One or more than One", "MCQ more than"]
+        },
+        "ar":{
+            "name":"Assertion and Reason type Questions",
             "keys":["MCQ One or more than One", "MCQ more than"]
         },
         "paragraph":{
