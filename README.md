@@ -11,7 +11,7 @@
   ### Your To-Do List:
 
 >1. Add your Tex files (If any), to the specific folder
-You'll find that there exist folders with all the chapter names. Navigate to that folder and create a folder for your question set (Ex: 15-30)
+You'll find that there exist folders with all the chapter names. Navigate to that folder and create a folder for your section (if it doesn't exist), and a subfolder for your question set (Ex: 15-30)
 
 >2. If there are multiple sections in your typing assignment, seperate them into multiple tex files.
 For example if your main tex file contains `\section{}` more than once, make another tex file with a relevant name and move the section content into it.
